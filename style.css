@@ -900,9 +900,22 @@ h4 {
         text-align: center;
     }
 }
+
 .h2font {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
+}
+#citation {
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+}
+#source-citation {
+    font-size: 15px;
+}
+#phrase-intro-bloc2, 
+#phrase-intro-bloc4 {
+    font-size: 22px;
 }
