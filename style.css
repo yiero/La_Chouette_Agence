@@ -918,3 +918,7 @@ h4 {
 #phrase-intro-bloc4 {
     font-size: 22px;
 }
+.form-group {
+    text-align: right;
+    justify-content: flex-start;
+}
